@@ -56,8 +56,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=dark&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&bg_color=0f172a&border_color=334155" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=dark&title_color=a855f7&text_color=e2e8f0&bg_color=0f172a&border_color=334155" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yonaljgp&show_icons=true&theme=dark&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&bg_color=0f172a&border_color=334155" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonaljgp&layout=compact&theme=dark&title_color=a855f7&text_color=e2e8f0&bg_color=0f172a&border_color=334155" alt="Top Languages" />
 </div>
 
 ---
