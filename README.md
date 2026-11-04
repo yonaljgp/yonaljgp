@@ -8,9 +8,17 @@
     Specialized in both <b>Frontend</b> and <b>Backend</b> development.
   </p>
 
-  <a href="https://portfolioyonalfredguzman.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Personal_Portfolio-portfolioyonalfredguzman.vercel.app-8B5CF6?style=for-the-badge&logoColor=white&labelColor=0F172A" alt="Portfolio Web"/>
-  </a>
+<div>
+    <a href="https://portfolioyonalfredguzman.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logoColor=white&labelColor=0F172A" alt="Portfolio Web"/>
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yonalfred-jose-guzm%C3%A1n-perez-0a5964358/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:yonalfredjoseguzmanperez@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-C5221F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+    </a>
+  </div>
 
   <br/><br/>
 </div>
@@ -19,6 +27,7 @@
 
 ### 🚀 About Me
 
+- 🌐 **Nationality:** Venezuelan.
 - 🎓 **Degree:** TSU in Informatics.
 - 💼 **Experience:** 2 years building full-stack web solutions.
 - 💻 **Specialty:** Full Stack Development (Frontend & Backend).
@@ -63,5 +72,5 @@
 ---
 
 <div align="center">
-  <p>⚡ <i>"Turning ideas into efficient and scalable code."</i></p>
+  <p>⚡ <i>"Intelligence doesn't come from knowing a lot, but from understanding that you'll learn something new every day."</i></p>
 </div>
